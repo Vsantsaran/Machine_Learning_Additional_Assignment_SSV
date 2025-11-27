@@ -1,4 +1,4 @@
-This code has been written by Sant Saran Vuppuluri, a 3rd-year B.Tech. student pursuing Electrical Engineering from Dayalbagh Educational Institute (DEI) with Computer Science as specialization.
+This code has been written by Sant Saran Vuppuluri, a 3rd-year B.Tech. student pursuing Electrical Engineering from Dayalbagh Educational Institute (DEI) and specializing in Computer Science.
 
 We recommend creating a virtual environment to avoid conflicts with version or dependency issues. Ensure you have Python installed on your system. Clone this GitHub page into your computer or cluster, then run the following commands in sequence.
 
@@ -15,5 +15,6 @@ Thank you for referring to our GitHub page. Feel free to contact us at the provi
 Contact: +91 639-8188-367
 
 Mail: santvsaran@gmail.com
+
 
 
