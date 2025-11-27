@@ -17,11 +17,16 @@ We recommend creating a virtual environment to avoid conflicts with version or d
 
 A folder named "experiments" will be created, inside which all the logs, images, checkpoints and other related files will be stored. The name of the folder inside the **experiments** folder may change, so write the one that is there in your directory.
 
+Ensure you have installed all the required packages. the _validate.sh_ script will install them, but if it doesn't work, then ensure that you have at least installed the packages mentioned in the _requirements.txt_ file.
+
+You may install like this - _**pip install -r requirements.txt**_
+
 Thank you for referring to our GitHub page. Feel free to contact us at the provided contact information or email address to query or suggest any improvements. We hope you found this work interesting and inspiring. 
 
 Contact: +91 639-8188-367
 
 Mail: santvsaran@gmail.com
+
 
 
 
