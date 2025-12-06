@@ -1,54 +1,54 @@
 {
-    "test_accuracy": 0.7199124726477024,
-    "test_balanced_accuracy": 0.7275380941693659,
-    "test_macro_precision": 0.7326787218585856,
-    "test_macro_recall": 0.7275380941693659,
-    "test_macro_f1": 0.7228967179191389,
-    "test_weighted_precision": 0.7384811750904087,
-    "test_weighted_recall": 0.7199124726477024,
-    "test_weighted_f1": 0.7211051070953763,
-    "best_val_accuracy": 0.7680525164113785,
+    "test_accuracy": 0.9638949671772429,
+    "test_balanced_accuracy": 0.9658318667882132,
+    "test_macro_precision": 0.9653802757878097,
+    "test_macro_recall": 0.9658318667882132,
+    "test_macro_f1": 0.9653004778721125,
+    "test_weighted_precision": 0.9649121971167788,
+    "test_weighted_recall": 0.9638949671772429,
+    "test_weighted_f1": 0.9641082421051396,
+    "best_val_accuracy": 0.986870897155361,
     "per_class_metrics": {
         "Bacterial_Blight": {
-            "precision": 0.610738255033557,
-            "recall": 0.728,
-            "f1_score": 0.6642335766423357,
+            "precision": 0.9754098360655737,
+            "recall": 0.952,
+            "f1_score": 0.9635627530364372,
             "support": 125
         },
         "Curl_Virus": {
-            "precision": 0.8103448275862069,
-            "recall": 0.6573426573426573,
-            "f1_score": 0.7258687258687259,
+            "precision": 0.9855072463768116,
+            "recall": 0.951048951048951,
+            "f1_score": 0.9679715302491103,
             "support": 143
         },
         "Healthy_Leaf": {
-            "precision": 0.5208333333333334,
-            "recall": 0.5952380952380952,
-            "f1_score": 0.5555555555555556,
+            "precision": 1.0,
+            "recall": 0.9761904761904762,
+            "f1_score": 0.9879518072289156,
             "support": 126
         },
         "Herbicide_Growth_Damage": {
-            "precision": 0.82,
-            "recall": 0.9609375,
-            "f1_score": 0.8848920863309353,
+            "precision": 0.9769230769230769,
+            "recall": 0.9921875,
+            "f1_score": 0.9844961240310077,
             "support": 128
         },
         "Leaf_Hopper_Jassids": {
-            "precision": 0.5378787878787878,
-            "recall": 0.5819672131147541,
-            "f1_score": 0.5590551181102362,
+            "precision": 0.8863636363636364,
+            "recall": 0.9590163934426229,
+            "f1_score": 0.9212598425196851,
             "support": 122
         },
         "Leaf_Redding": {
-            "precision": 0.9065420560747663,
-            "recall": 0.6139240506329114,
-            "f1_score": 0.7320754716981132,
+            "precision": 0.9423076923076923,
+            "recall": 0.930379746835443,
+            "f1_score": 0.9363057324840764,
             "support": 158
         },
         "Leaf_Variegation": {
-            "precision": 0.9224137931034483,
-            "recall": 0.9553571428571429,
-            "f1_score": 0.9385964912280702,
+            "precision": 0.9911504424778761,
+            "recall": 1.0,
+            "f1_score": 0.9955555555555555,
             "support": 112
         }
     }

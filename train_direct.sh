@@ -57,7 +57,7 @@ echo "==========================================================================
 
 # Check Python
 if ! command -v python3 &> /dev/null; then
-    echo "ERROR: Python3 not found"
+    echo "ERROR: python3 not found"
     exit 1
 fi
 
@@ -102,7 +102,7 @@ DROPOUT=0.3
 STOCHASTIC_DEPTH=0.1
 
 # Training
-EPOCHS=10
+EPOCHS=50
 BATCH_SIZE=16
 ACCUMULATION_STEPS=8
 LR=0.001
